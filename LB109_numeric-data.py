@@ -1,7 +1,10 @@
 """
 Lab 109 - Medina, Alejandro
 
+Ejercicios numericos echos con la lina de comandos de python desde terminal
+
 """
+
 
 print("Python has three numeric types: int, float, and complex")
 
@@ -12,6 +15,8 @@ print(myValue)
 print(type(myValue))
 
 print(str(myValue) + " is of the data type " + str(type(myValue)))
+
+
 
 print("\n") 
 
@@ -59,8 +64,17 @@ print(myValueE)
 print(type(myValueE))
 
 print(str(myValueE) + " is of the data type " + str(type(myValueE)))
-print("\n") 
-print("\n") 
+
+
+
+
+
+
+
+
+
+
+
 
 
 
