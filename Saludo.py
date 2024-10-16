@@ -4,7 +4,6 @@ def Saludo():
    name = input("Por favor ingrese su nombre: ")
    edad = input("Cuantos Años tienes ?: ")
    print("\n") 
-  
    print(f" Hola como estas: " + name)
    print("¡Es un placer saludarte!")
    print("\n") 
@@ -12,19 +11,5 @@ def Saludo():
    print("\n") 
 
 Saludo()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
